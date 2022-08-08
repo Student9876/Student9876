@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Student9876
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning CPP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://discord.gg/9n7qBtM
 
