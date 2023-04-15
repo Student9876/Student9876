@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shouvik Sutar 
 - 🌱 I’m currently interested Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/shouvik-sutar/
 
 <!---
