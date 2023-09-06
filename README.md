@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Shouvik Sutar 
-- 🌱 I’m currently interested Web Development
+- 👋 Hi, I’m Shouvik Sutar
+- B.Tech '26 in Computer Science and Engineering at Indian Institute of Information Technology, Bhopal 
+- Full stack Web Developer (MERN stack)
+- Portfolio https://shouvik-sutar.student9876.repl.co
 - 📫 How to reach me https://www.linkedin.com/in/shouvik-sutar/
 
 <!---
