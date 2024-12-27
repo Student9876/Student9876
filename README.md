@@ -38,6 +38,14 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Student9876&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
+
 <h2 align="center">📫 How to Reach Me</h2>
 
 <p align="center">
