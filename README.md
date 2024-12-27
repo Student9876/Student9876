@@ -38,28 +38,10 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouvik-sutar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouvik-sutar&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouvik-sutar&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-<h2 align="center">🌟 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shouvik-sutar&theme=radical" alt="GitHub Contribution Graph" />
-</div>
-
----
-
 <h2 align="center">📫 How to Reach Me</h2>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:shouvik9876@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/shouvik-sutar/">
