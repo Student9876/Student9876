@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://shouviksutar.vercel.app">Portfolio</a> • 
-  📫 <a href="https://www.linkedin.com/in/shouvik-sutar/">LinkedIn</a>
+<!--   🌐 <a href="https://shouviksutar.vercel.app">Portfolio</a> •  -->
+  <a href="https://www.linkedin.com/in/shouvik-sutar/">LinkedIn</a>
 </p>
 
 ---
